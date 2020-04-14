@@ -1,0 +1,10 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "napori0624 <naporin0624@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hygen": "^5.0.3"
+  }
+}
